@@ -1,0 +1,12 @@
+{
+  "_cts": {
+    "page": {
+      "greeting": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  }
+}
