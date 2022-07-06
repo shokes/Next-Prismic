@@ -1,7 +1,7 @@
 {
   "_cts": {
     "page": {
-      "greeting": {
+      "title": {
         "config": {
           "patternType": "PARAGRAPH",
           "blocks": 1
